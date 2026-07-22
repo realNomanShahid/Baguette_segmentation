@@ -3,7 +3,7 @@
 Simple CV pipeline to detect, measure, and label baguettes from images/video using OpenCV.
 
 ## Demo
-> 🔗 Link: *add later*
+> 🔗 Link: *(https://drive.google.com/file/d/1AbCd)*
 
 ## WorkFlow
 > ![Baguette Segmentation Workflow](docs/baguette_pipeline_flow.png)
