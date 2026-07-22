@@ -5,8 +5,8 @@ Simple CV pipeline to detect, measure, and label baguettes from images/video usi
 ## Demo
 > 🔗 Link: *add later*
 
-## Photos
-> 📷 Add sample photos here later (raw / mask / overlay)
+## WorkFlow
+> ![Baguette Segmentation Workflow](docs/baguette_pipeline_flow.png)
 
 ---
 
